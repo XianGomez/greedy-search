@@ -1,7 +1,7 @@
 ## Optimización de Cobertura de Estaciones de Radio
-===================================================
+
 ### Descripción del Problema
-============================
+
 Este proyecto aborda un problema clásico de optimización en Inteligencia Artificial conocido como "Set Covering Problem".
 
 El objetivo es encontrar el número mínimo de estaciones de radio necesarias para cubrir todos los estados de Estados Unidos (específicamente, los estados del oeste y centro del país).
